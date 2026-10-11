@@ -2,6 +2,7 @@
 entrega_competencia_01/
 ├── README.md
 ├── requirements.txt
+├── RECREACION_Candidato_B_I11_4M_Base_K11500.csv
 ├── 01_preprocesamiento/
 │   └── 01_generar_dataset_fe_v12.py
 ├── 02_optimizacion_bayesiana/
@@ -11,8 +12,7 @@ entrega_competencia_01/
     ├── 03_entrenar_y_predecir_M4_final.py
     ├── 04_verificar_entrega.py
     ├── modelos/
-    │   ├── lgb_seed_578777.txt
-    │   ├── lgb_seed_377717.txt
-    │   └── lgb_seed_717797.txt
-    └── referencia/
-        └── RECREACION_Candidato_B_I11_4M_Base_K11500.csv
+        ├── lgb_seed_578777.txt
+        ├── lgb_seed_377717.txt
+        └── lgb_seed_717797.txt
+    
