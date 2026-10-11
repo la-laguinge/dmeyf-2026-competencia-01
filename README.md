@@ -1,25 +1,6 @@
 # dmeyf-2026-competencia-01
 Esta es mi entrega a la competencia 1 para la materia DMEyF:
 
-# Guia:
-entrega_competencia_01/
-├── README.md
-├── requirements.txt
-├── 01_preprocesamiento/
-│   └── 01_generar_dataset_fe_v12.py
-├── 02_optimizacion_bayesiana/
-│   ├── 02_optuna_bimodal_v64.py
-│   └── optuna_low.db
-└── 03_modelo_final/
-    ├── 03_entrenar_y_predecir_M4_final.py
-    ├── 04_verificar_entrega.py
-    ├── modelos/
-    │   ├── lgb_seed_578777.txt
-    │   ├── lgb_seed_377717.txt
-    │   └── lgb_seed_717797.txt
-    └── referencia/
-        └── RECREACION_Candidato_B_I11_4M_Base_K11500.csv
-
 # DMEyF 2026 — Primera Competencia: Predicción de Churn Bancario (202108)
 **Autor:** Luis María Laguinge  
 **Entrega Final:** `RECREACION_Candidato_B_I11_4M_Base_K11500.csv` (**103.7 M** en Leaderboard Público)
