@@ -1,0 +1,6 @@
+numpy
+pandas
+duckdb
+lightgbm
+optuna
+scikit-learn
